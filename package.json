@@ -1,6 +1,6 @@
 {
   "name": "nanigans",
-  "repository": "git://github.com/Bizzby/nanigans",
+  "repository": "git://github.com/Bizzby/nanigans-node",
   "version": "0.0.1",
   "description": "Nanigans server-side library for Node.js.",
   "keywords": [
