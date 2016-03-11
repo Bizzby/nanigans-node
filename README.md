@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Bizzby/nanigans-node.svg?branch=master)](https://travis-ci.org/Bizzby/nanigans-node)
 
 # nanigans for node.js
 
